@@ -15,9 +15,7 @@ For the first 2 days, i'll work on creating my keyboard using the Bakeneko65 tha
 Materials
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
-| Case/PCB        | [Keychron Q2](https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=9160) | $159.99 | + 14
-| Switches        | [Gateron Milky Yellow Pro](https://divinikey.com/products/gateron-ks-3-milky-yellow-pro-linear-switches) | $16.80 | 33.66
-| Keycaps         | [Mistel Gray/Yellow](https://www.amazon.com/dp/B08SW9JLZY) | $45.99 | 
-| Switch Puller   | [TX](https://divinikey.com/products/tx-switch-puller) | $8.00 |
-| Subtotal        |                                       | $238.94 |
-| Total           |       
+| Case/PCB        | [Keychron Q2](https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=9160) | $172.91 |
+| Switches        | [Gateron Milky Yellow Pro](https://divinikey.com/products/gateron-ks-3-milky-yellow-pro-linear-switches) | $24.96 |
+| Keycaps         | [Mistel Gray/Yellow](https://www.amazon.com/dp/B08SW9JLZY) | $45.99 |
+| Total           |                                       | $243.86 |
